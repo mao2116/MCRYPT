@@ -1,13 +1,58 @@
-<p style="text-align:center;color:black;">
-<h2> MCRYPT </h2>
+
+<h2 align="center">
+<a href="https://www.maocommunity.blogspot.com">MCRYPT</a>
+  
+  </h2>
+<p align="center">
+ 
+   <b> AUTHER </b>
   </p>
-<p style="text-align:center;">
+ <p align="center">
 <a href="https://github.com/mao2116">
-  <img width="45px" height="45px" src="https://github.com/mao2116/test/blob/0a6524c7d871f84fc13fe1b740bf86732b2d3548/mao.png?raw=true"/>
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/fh-rabbi/Hack-Box/main/images/git.png">
 </a>
 </p>
-<p style="text-align:center;">
+  <p align="center">
+  <b> TO REPORT ANY TYPE OF BUG OR PROBLEM </b>
+<p/>
+<p align="center">
 <a href="https://www.facebook.com/mAoVirUs2116/">
-  <img width="86px" height="57px" src="https://github.com/mao2116/test/blob/0a6524c7d871f84fc13fe1b740bf86732b2d3548/maof.png?raw=true"/>
+  <img width="50px" height="50px" src="https://raw.githubusercontent.com/fh-rabbi/Hack-Box/main/images/fb.png"><!I JUST USE A PIC FROM FH-RABBI >
 </a>
 </p>  
+
+  
+  
+## INSTALLATION  :
+
+* `apt-get update -y`
+* `apt-get upgrade -y`
+* `pkg install git -y`
+* ` git clone https://github.com/mao2116/YTD`
+* `cd YTD`
+* `ls`
+* `bash setup.sh`
+
+## ONE CLICK INSTALLATION :
+* `apt-get update -y && apt-get upgrade -y &&  pkg install git -y && git clone https://github.com/mao2116/YTD && cd YTD && bash setup.sh`
+
+
+## FOR ANY TIME RUN :
+
+***OPEN TERMINAL AND TYPE:***
+
+cd MCRYPT
+python MCRYPYT.EH
+
+
+##### Mao2116
+
+## WARNING : 
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
+  
+  
+  
+  
+  
+  
