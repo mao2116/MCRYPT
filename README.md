@@ -44,7 +44,8 @@ cd MCRYPT
 
 python MCRYPYT.EH
 <b>
-USER 
+
+[ ]USER [ ]
 
 mao
 
