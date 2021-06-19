@@ -4,9 +4,8 @@
   
   </h2>
 <p align="center">
- 
-   <b> AUTHER </b>
-  </p>
+<b> AUTHER </b>
+</p>
  <p align="center">
 <a href="https://github.com/mao2116">
   <img width="50px" height="50px" src="https://raw.githubusercontent.com/fh-rabbi/Hack-Box/main/images/git.png">
@@ -28,13 +27,13 @@
 * `apt-get update -y`
 * `apt-get upgrade -y`
 * `pkg install git -y`
-* ` git clone https://github.com/mao2116/YTD`
-* `cd YTD`
+* ` git clone https://github.com/mao2116/MCRYPT`
+* `cd MCRYPT`
 * `ls`
-* `bash setup.sh`
+
 
 ## ONE CLICK INSTALLATION :
-* `apt-get update -y && apt-get upgrade -y &&  pkg install git -y && git clone https://github.com/mao2116/YTD && cd YTD && bash setup.sh`
+* `apt-get update -y && apt-get upgrade -y &&  pkg install git -y && git clone https://github.com/mao2116/MCRYPT && cd MCRYPT`
 
 
 ## FOR ANY TIME RUN :
@@ -42,6 +41,7 @@
 ***OPEN TERMINAL AND TYPE:***
 
 cd MCRYPT
+
 python MCRYPYT.EH
 
 
