@@ -43,8 +43,15 @@
 cd MCRYPT
 
 python MCRYPYT.EH
+<b>
+USER 
 
+mao
 
+[ ]PASSWORD[ ]
+
+2116
+</b>
 ##### Mao2116
 
 ## WARNING : 
